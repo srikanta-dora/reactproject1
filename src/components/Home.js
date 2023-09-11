@@ -17,7 +17,7 @@ const Home = () => {
     // <Textweight/>
     // <Dropdown/>
   // <Checkradiobutton/>*/}
-    <Pagination/>
+    <h1>This is Home Page</h1>
     </div>
 
     </>
