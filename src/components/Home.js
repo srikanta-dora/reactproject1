@@ -10,7 +10,7 @@ import Pagination from './Pagination'
 const Home = () => {
   return (
     <>
-    <Navigation/><div>
+    <div>
    {/*<h1 className='pt-11'> <Box/></h1>
     
      <Labelfontstyleguide/>
