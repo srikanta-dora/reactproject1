@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header-menu{
+border-radius: var(--1, 8px);
+border: 1px solid #FFBC00;
+background: rgba(255, 255, 255, 0.10);
+display: inline-flex;
+padding: 12px 13px;
+gap: 10px;
+}
+
+
+.container{
+ width: 100%;
+margin-left: auto;
+margin-right: auto;
+padding-right: 0.5rem;
+padding-left: 0.5rem;
+}
+
+
+

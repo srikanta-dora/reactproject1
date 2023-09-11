@@ -1,0 +1,172 @@
+.box {
+    height: 66px;
+    width: 1186px;
+    padding-left: 30px;
+}
+
+.box .rectangle {
+    background-color: #c9252c;
+    border-radius: 5px;
+    height: 66px;
+    left: 5;
+    position: fixed;
+    top: 5;
+    width: 1186px;
+    
+}
+
+.label {
+    height: 24px;
+    width: 147px;
+}
+
+.label .typography {
+    color: #ffffff;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 19.8px;
+    font-weight: 700;
+    height: 24px;
+    left: 0;
+    letter-spacing: 0.13px;
+    line-height: normal;
+    position: fixed;
+    top: 5;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+
+.label {
+    height: 24px;
+    width: 277px;
+}
+
+.label .font-style-guide {
+    color: transparent;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 19.8px;
+    font-weight: 700;
+    height: 24px;
+    left: 0;
+    letter-spacing: 0.13px;
+    line-height: normal;
+    position: fixed;
+    top: 5;
+    padding-left: 73px;
+    padding-top: 40px;
+}
+
+.label .text-wrapper {
+    color: #000000;
+}
+
+.label .span {
+    color: #c9252c;
+}
+
+.label {
+    height: 15px;
+    width: 78px;
+}
+
+.label .text-wrapper1 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 0;
+    letter-spacing: 0.13px;
+    line-height: normal;
+    position: fixed;
+    top: 5;
+    padding-left: 81px;
+    padding-top: 70px;
+}
+
+.box1{
+
+    margin-top: 8rem;
+        
+}
+
+.rectangle1 {
+    height: 56px;
+    left: 0;
+    object-fit: cover;
+    position: fixed;
+    top: 5;
+    width: 350px;
+    border: 1px solid #B5B5B5;
+    border-radius: 0.5rem;
+    margin-left: 5rem;
+    
+    
+}
+.textindropdown
+{
+    color: var(--mono-gray-4, #505050);
+    /* h4 */
+    font-family: Roboto;
+    font-size: 1.3125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 2rem ;
+
+}
+
+.boxcheckradiobutton
+{
+
+    height: 9.75rem;
+    width: 8.88rem;
+    border: 2px dashed #7B61FF;
+    
+    margin-top: 12rem;
+    margin-left: 5rem;
+    
+    
+    
+}
+.checkbox1
+{
+
+    padding-left: 0.1rem;
+    padding: 0.8rem;
+    
+
+}
+
+
+
+.checkboxtxt
+{
+
+    color: var(--mono-gray-4, #505050);
+
+/* p */
+font-family: Roboto;
+font-size: 1rem;
+font-style: normal;
+font-weight: 400;
+line-height: 1.25rem; /* 125% */
+padding-left: 1rem;
+      
+
+}
+input[type="checkbox"] {
+  
+    height: 1.1rem;
+    width: 1.1rem;
+}
+
+input[type=checkbox]:checked {
+    accent-color: red;
+  }
+ 
+  .selected
+  {
+ color: #c9252c;
+font-weight: bold;
+
+  }
